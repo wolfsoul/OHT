@@ -1,0 +1,30 @@
+		<div class="post" >
+			<h2 class="title">Motherboard</h2>
+			<div class="entry">
+				<p>A motherboard is the central printed circuit board (PCB) in many modern computers and holds many of the crucial components of the system, while providing connectors for other peripherals. The motherboard is sometimes alternatively known as the main board, system board, or, on Apple computers, the logic board.It is also sometimes casually shortened to mobo<br></p>
+			</div>
+			
+					
+		</div>
+		<div class="post" >
+			<h3 class="title">Overview</h3>
+			<div class="entry">
+			<p>A motherboard, like a backplane, provides the electrical connections by which the other components of the system communicate, but unlike a backplane, it also connects the central processing unit and hosts other subsystems and devices.
+ A typical desktop computer has its microprocessor, main memory, and other essential components connected to the motherboard. Other components such as external storage, controllers for video display and sound, and peripheral devices may be attached to the motherboard as plug-in cards or via cables, although in modern computers it is increasingly common to integrate some of these peripherals into the motherboard itself.
+ An important component of a motherboard is the microprocessor's supporting chipset, which provides the supporting interfaces between the CPU and the various buses and external components. This chipset determines, to an extent, the features and capabilities of the motherboard.
+ Modern motherboards include, at a minimum:
+ sockets (or slots) in which one or more microprocessors may be installed
+ slots into which the system's main memory is to be installed (typically in the form of DIMM modules containing DRAM chips)
+ a chipset which forms an interface between the CPU's front-side bus, main memory, and peripheral buses
+ non-volatile memory chips (usually Flash ROM in modern motherboards) containing the system's firmware or BIOS
+ a clock generator which produces the system clock signal to synchronize the various components
+ slots for expansion cards (these interface to the system via the buses supported by the chipset)
+ power connectors, which receive electrical power from the computer power supply and distribute it to the CPU, chipset, main memory, and expansion cards.
+ </br></p>
+ 
+ </div>
+ 
+
+<img src="images/Motherboard1.png" width="450" height="450" />
+
+ </div>

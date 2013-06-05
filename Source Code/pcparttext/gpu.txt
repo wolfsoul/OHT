@@ -1,0 +1,11 @@
+		<div class="post" >
+			<h2 class="title">GPU</h2>
+			<div class="entry">
+				<p>A graphics processing unit or GPU (also occasionally called visual processing unit or VPU) is a specialized microprocessor that offloads and accelerates graphics rendering from the central (micro-)processor. It is used in embedded systems, mobile phones, personal computers, workstations, and game consoles. Modern GPUs are very efficient at manipulating computer graphics, and their highly parallel structure makes them more effective than general-purpose CPUs for a range of complex algorithms. In a personal computer, a GPU can be present on a video card, or it can be on the motherboard. More than 90% of new desktop and notebook computers have integrated GPUs, which are usually far less powerful than those on a dedicated video card.[1]
+
+The term was defined and popularized by Nvidia in 1999, who marketed the GeForce 256 as "the world's first 'GPU', or Graphics Processing Unit, a single-chip processor with integrated transform, lighting, triangle setup/clipping, and rendering engines that is capable of processing a minimum of 10 million polygons per second." Rival ATI Technologies coined the term visual processing unit or VPU with the release of the Radeon 9700 in 2002.
+<br></p>
+			</div>
+<img src="images/gpu.png" width="150" height="150"/>
+			
+		</div>

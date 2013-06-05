@@ -1,0 +1,15 @@
+		<div class="post" >
+			<h2 class="title">RAM</h2>
+			<div class="entry">
+				<p>Random-access memory (RAM) is a form of computer data storage. Today, it takes the form of integrated circuits that allow stored data to be accessed in any order (i.e., at random). "Random" refers to the idea that any piece of data can be returned in a constant time, regardless of its physical location and whether it is related to the previous piece of data<br></p>
+			</div>		
+		</div>
+		<div class="post" >
+			<h3 class="title">Types of RAM</h3>
+			<div class="entry">
+				<p>Modern types of writable RAM generally store a bit of data in either the state of a flip-flop, as in SRAM (static RAM), or as a charge in a capacitor (or transistor gate), as in DRAM (dynamic RAM), EPROM, EEPROM and Flash. Some types have circuitry to detect and/or correct random faults called memory errors in the stored data, using parity bits or error correction codes. RAM of the read-only type, ROM, instead uses a metal mask to permanently enable/disable selected transistors, instead of storing a charge in them. Of special consideration is SIMM and DIMM memory modules.
+SRAM and DRAM are volatile, other forms of computer storage, such as disks and magnetic tapes, have been used as persistent storage in traditional computers. Many newer products instead rely on flash memory to maintain data when not in use, such as PDAs or small music players. Certain personal computers, such as many rugged computers and netbooks, have also replaced magnetic disks with flash drives. With flash memory, only the NOR type is capable of true random access, allowing direct code execution, and is therefore often used instead of ROM; the lower cost NAND type is commonly used for bulk storage in memory cards and solid-state drives.
+A memory chip is an integrated circuit (IC) made of millions of transistors and capacitors. In the most common form of computer memory, dynamic random access memory (DRAM), a transistor and a capacitor are paired to create a memory cell, which represents a single bit of data. The capacitor holds the bit of information — a 0 or a 1 . The transistor acts as a switch that lets the control circuitry on the memory chip read the capacitor or change its state.<br></p>
+			</div>	
+<img src="images/ram.png" width="150" height="150"/>	
+		</div>

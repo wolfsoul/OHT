@@ -1,0 +1,22 @@
+		<div class="post" >
+			<h2 class="title">Power Supply</h2>
+			<div class="entry">
+			<p>A power supply unit (PSU) is the component that supplies power to the other components in a computer.
+			More specifically,
+			a power supply unit is typically designed to convert general-purpose
+			alternating current (AC) electric power from the mains 
+			(100-127V in North America, parts of South America, Japan, and Taiwan; 
+			220-240V in most of the rest of the world) to usable low-voltage 
+			direct current (DC) power for the internal components of the computer. 
+			Some power supplies have a switch to change between 230 V and 115 V. 
+			Other models have automatic sensors that switch input voltage automatically,
+			or are able to accept any voltage between those limits.
+			The most common computer power supplies are built to conform to the ATX form factor.
+			This enables different power supplies to be interchangeable with different components inside the computer.
+			ATX power supplies also are designed to turn on and off using a signal from the motherboard, and provide support 
+			for modern functions such as the standby mode available in many computers. The most recent specification of 
+			the ATX standard PSU as of mid-2008 is version 2.31.
+</p>
+</div>
+<img src="images/powersupply.png" width="150" height="150"/>
+			</div>

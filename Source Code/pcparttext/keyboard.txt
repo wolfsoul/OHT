@@ -1,0 +1,14 @@
+		<div class="post" >
+			<h2 class="title">Keyboard</h2>
+			<div class="entry">
+				<p>A keyboard is typewriter keyboard, which uses an arrangement of buttons or keys, to act as mechanical levers or electronic switches. After punch cards and paper tape, interaction via teletype-style keyboards became the main input device for computers.
+
+Despite the development of alternative input devices, such as the mouse (computing mouse), touch sensitive screens, pen devices, character recognition, voice recognition, and improvements in computer speed and memory size, the keyboard remains the most commonly used and most versatile device used for direct (human) input into computers.
+
+A keyboard typically has characters engraved or printed on the keys and each press of a key typically corresponds to a single written symbol. However, to produce some symbols requires pressing and holding several keys simultaneously or in sequence. While most keyboard keys produce letters, numbers or signs (characters), other keys or simultaneous key presses can produce actions or computer commands.
+
+In normal usage, the keyboard is used to type text and numbers into a word processor, text editor or other program. In a modern computer, the interpretation of key presses is generally left to the software. A computer keyboard distinguishes each physical key from every other and reports all key presses to the controlling software. Keyboards are also used for computer gaming, either with regular keyboards or by using keyboards with special gaming features, which can expedite frequently used keystroke combinations. A keyboard is also used to give commands to the operating system of a computer, such as Windows' Control-Alt-Delete combination, which brings up a task window or shuts down the machine. It is the only way to enter commands on a command-line interface.
+<br></p>
+			</div>
+		<img src="images/keyboard.png" width="150" height="150"/>
+		</div>

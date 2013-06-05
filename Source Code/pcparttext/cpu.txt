@@ -1,0 +1,11 @@
+		<div class="post" >
+			<h2 class="title">CPU</h2>
+			<div class="entry">
+				<p>The central processing unit (CPU) is the portion of a computer system that carries out the instructions of a computer program, and is the primary element carrying out the computer's functions. The central processing unit carries out each instruction of the program in sequence, to perform the basic arithmetical, logical, and input/output operations of the system. This term has been in use in the computer industry at least since the early 1960s.The form, design and implementation of CPUs have changed dramatically since the earliest examples, but their fundamental operation remains much the same.
+					Early CPUs were custom-designed as a part of a larger, sometimes one-of-a-kind, computer. 
+					However, this costly method of designing custom CPUs for a particular application has largely given way to the development of mass-produced processors that are made for one or many purposes. This standardization trend generally began in the era of discrete transistor mainframes and minicomputers and has rapidly accelerated with the popularization of the integrated circuit (IC).
+					The IC has allowed increasingly complex CPUs to be designed and manufactured to tolerances on the order of nanometers. Both the miniaturization and standardization of CPUs have increased the presence of these digital devices in modern life far beyond the limited application of dedicated computing machines. Modern microprocessors appear in everything from automobiles to cell phones and children's toys<br></p>
+			</div>	
+
+		<img src="images/cpu.png" width="450" height="350"/>	
+		</div>

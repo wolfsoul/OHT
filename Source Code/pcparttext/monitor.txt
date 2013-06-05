@@ -1,0 +1,14 @@
+		<div class="post" >
+			<h2 class="title">Monitor</h2>
+			<div class="entry">
+				<p>A monitor or display (sometimes called a visual display unit) is an electronic visual display for computers. 
+				The monitor comprises the display device, circuitry, and an enclosure.
+				The display device in modern monitors is typically a thin film transistor 
+				liquid crystal display (TFT-LCD) thin panel,while older monitors use a cathode ray tube about as deep as the screen size.
+				Originally computer monitors were used for data processing and television receivers for entertainment;
+				increasingly computers are being used both for data processing and entertainment. 
+				Displays exclusively for data use tend to have an aspect ratio of 4:3 those used also (or solely) for entertainment are usually 16:9 widescreen.
+				Sometimes a compromise is used, e.g. 16:10.<br/></p>
+			</div>		
+			<img src="images/monitor.png" width="450" height="350" />
+		</div>

@@ -1,0 +1,44 @@
+		<div class="post" >
+			<h2 class="title">Optical Media</h2>
+			<div class="entry">
+			<p>In computing and optical recording, an optical disc is a flat, usually circular disc which encodes binary data
+			in the form of pits (binary value of 0 or off, due to lack of reflection when read) and lands 
+			(binary value of 1 or on, due to a reflection when read) on a special material (often aluminium[citation needed])
+			on one of its flat surfaces. The encoding material sits atop a thicker substrate (usually polycarbonate) 
+			which makes up the bulk of the disc and forms a dust defocusing layer. The encoding pattern follows a continuous,
+			spiral path covering the entire disc surface and extending from the innermost track to the outermost track.
+			The data is stored on the disc with a laser or stamping machine, and can be accessed when the data path is illuminated 
+			with a laser diode in an optical disc drive which spins the disc at speeds of about 200 RPM up to 4000 rpm or more
+			depending on the drive type, disc format, and the distance of the read head from the center of the disc
+			(inner tracks are read at a faster disc speed). The pits or bumps distort the reflected laser light, 
+			hence most optical discs (except the black discs of the original PlayStation video game console) characteristically
+			have an iridescent appearance created by the grooves of the reflective layer. The reverse side of an optical disc 
+			usually has a printed label, generally made of paper but sometimes printed or stamped onto the disc itself. 
+			This side of the disc contains the actual data and is typically coated with a transparent material, usually lacquer. 
+			Unlike the 3½-inch floppy disk, most optical discs do not have an integrated protective casing and are therefore 
+			susceptible to data transfer problems due to scratches, fingerprints, and other environmental problems.
+			Optical discs are usually between 7.6 and 30 cm (3 to 12 in) in diameter, with 12 cm (4.75 in) being the most 
+			common size.
+			A typical disc is about 1.2 mm (0.05 in) thick, while the track pitch (distance from the center of one track to the center of the
+			next) is typically 1.6 µm.	
+			An optical disc is designed to support one of three recording types: read-only (e.g.: CD and CD-ROM), recordable (write-once, e.g. CD-R),
+			or re-recordable (rewritable, e.g. CD-RW). Write-once optical discs commonly have an organic dye recording layer between the substrate and
+			the reflective layer. Rewritable discs typically contain an alloy recording layer composed of a phase change material, most often AgInSbTe, an alloy of silver,
+			indium, antimony and tellurium.
+			Optical discs are most commonly used for storing music (e.g. for use in a CD player), video (e.g. for use in a DVD player), or data and programs for personal computers.
+			The Optical Storage Technology Association (OSTA) promotes standardized optical storage formats. Although optical discs are more durable than earlier audio-visual and data storage formats, 
+			they are susceptible to environmental and daily-use damage. Libraries and archives enact optical media preservation procedures to ensure continued usability in the computer's 
+			optical disc drive or corresponding disc player.
+			For computer data backup and physical data transfer, optical discs such as CDs and DVDs are gradually being 
+			replaced with faster, smaller, and more reliable solid state devices, especially the USB flash drive. 
+			This trend is expected to continue as USB flash drives continue to increase in capacity and drop in price.
+			Similarly, personal portable CD players have been supplanted by portable solid state MP3 players, and MP3 music purchased or shared over the internet has significantly
+			reduced the number of audio CDs sold annually.<br/></p>
+			</div>
+<img src="images/dvd.png" width="250" height="250"/>
+			</div>
+ 
+ 
+ 
+ 
+

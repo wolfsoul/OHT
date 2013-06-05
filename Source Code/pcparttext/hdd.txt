@@ -1,0 +1,10 @@
+		<div class="post" >
+			<h2 class="title">HDD</h2>
+			<div class="entry">
+				<p>A hard disk drive[2] (HDD) is a non-volatile, random access device for digital data. It features rotating rigid platters on a motor-driven spindle within a protective enclosure. Data is magnetically read and written on the platter by read/write heads that float on a film of air above the platters.
+
+The first HDD was invented by IBM in 1956. They have fallen in cost and physical size over the years while dramatically increasing capacity. Hard disk drives have been the dominant device for secondary storage of data in general purpose computers since the early 1960s.[3] They have maintained this position because advances in their areal recording density have kept pace with the requirements for secondary storage.[3] Form factors have also evolved over time from great standalone boxes to today's desktop systems mainly with standardized 3.5-inch form factor drives, and mobile systems mainly using 2.5-inch drives. Today's HDDs operate on high-speed serial interfaces; i.e., serial ATA (SATA) or serial attached SCSI (SAS).
+<br></p>
+			</div>	
+<img src="images/hdd.png" width="150" height="150"/>	
+		</div>

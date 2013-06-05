@@ -1,0 +1,7 @@
+		<div class="post" >
+			<h2 class="title">Mouse</h2>
+			<div class="entry">
+				<p>A mouse is a pointing device that functions by detecting two-dimensional motion relative to its supporting surface. Physically, a mouse consists of an object held under one of the user's hands, with one or more buttons. (Although traditionally a button is typically round or square, modern mice have spring-loaded regions of their top surface that operate switches when pressed down lightly.) It sometimes features other elements, such as "wheels", which allow the user to perform various system-dependent operations, or extra buttons or features that can add more control or dimensional input. The mouse's motion typically translates into the motion of a cursor on a display, which allows for fine control of a graphical user interface.<br></p>
+			</div>
+				<img src="images/mouse.png" width="150" height="150" />
+		</div>
